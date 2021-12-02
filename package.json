@@ -1,0 +1,19 @@
+{
+  "name": "vyasa",
+  "version": "1.0.0",
+  "description": "A public package for logging functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashwantChauhan/Vyasa.git"
+  },
+  "author": "Growthpal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YashwantChauhan/Vyasa/issues"
+  },
+  "homepage": "https://github.com/YashwantChauhan/Vyasa#readme"
+}
