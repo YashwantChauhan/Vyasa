@@ -1,3 +1,9 @@
+let api_key,url;
 exports.initialize = () => {
-    console.log("In Vyasa");
+    api_key = 550;
+    url = 99;
+}
+
+exports.logger = () =>{
+    console.log(api_key,url);
 }
